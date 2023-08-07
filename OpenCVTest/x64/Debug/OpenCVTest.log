@@ -1,0 +1,12 @@
+﻿  OpenCVTest.cpp
+C:\Users\limbo\source\repos\OpenCVTest\OpenCVTest\OpenCVTest.cpp(131,34): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\limbo\source\repos\OpenCVTest\OpenCVTest\OpenCVTest.cpp(132,34): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  OpenCVTest.vcxproj -> C:\Users\limbo\source\repos\OpenCVTest\x64\Debug\OpenCVTest.exe
